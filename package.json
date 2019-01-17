@@ -1,0 +1,12 @@
+{
+  "name": "bnqkl_xingjian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "data":"node ./src/dataGenerator",
+    "test": "node ./test/test1"
+  },
+  "author": "xingjian",
+  "license": "MIT"
+}
