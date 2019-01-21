@@ -4,9 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "data":"node ./src/dataGenerator",
+    "data": "node ./src/dataGenerator",
     "test": "node ./test/test1"
   },
   "author": "xingjian",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  }
 }
